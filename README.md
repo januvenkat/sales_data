@@ -12,7 +12,3 @@ Discounts Offered
 Profitability Metrics
 The profit ratio will serve as the primary profitability indicator.
 
-# Objectives
-1.Analyze Historical Data: Understand sales patterns and profitability trends over the past four years.
-2.Identify Key Profitability Drivers: Discover which factors (e.g., regions, product categories, shipping modes) contribute to profitability or losses.
-3.Provide Strategic Insights: Use the findings to propose actionable strategies for improving profitability in the upcoming year.
