@@ -1,13 +1,18 @@
-# sales_data
-The goal of the project is to analyze sales history data and identify key points
-that made the business profitable or not. These key points should be clear
-enough to help designing a new sales profitability strategy for the next year by
-the marketing director of A-to-Z-Market.
-The dataset for the analysis (sales.csv) contains the last 4-years sales data from
-different regional stores in United States. It contains all details for each customer
-order (dates, localization, products categories, shipping mode, quantity,
-discounts, profitability, etc.).
-You can use the profit ratio as a profitability indicator in your analysis. For a single
-sale, the profit ratio is defined as the ratio between the amount of profit and the
-amount of sale. However, when aggregating sales, the profit ratio should be the
-ratio between the sum of profits and the sum of sales for each aggregated group.
+# Project Overview
+The goal of this project is to analyze sales history data from A-to-Z Market and identify key factors that influenced the business's profitability over the last four years. These insights will help the marketing director design a new sales profitability strategy for the upcoming year.
+
+# Dataset
+The dataset (sales.csv) contains four years of sales data from various regional stores in the United States. Each record represents a customer order and includes detailed attributes such as:
+Order Date
+Region and Store Localization
+Product Categories
+Shipping Modes
+Quantities Sold
+Discounts Offered
+Profitability Metrics
+The profit ratio will serve as the primary profitability indicator.
+
+# Objectives
+1.Analyze Historical Data: Understand sales patterns and profitability trends over the past four years.
+2.Identify Key Profitability Drivers: Discover which factors (e.g., regions, product categories, shipping modes) contribute to profitability or losses.
+3.Provide Strategic Insights: Use the findings to propose actionable strategies for improving profitability in the upcoming year.
